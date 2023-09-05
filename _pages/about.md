@@ -22,6 +22,6 @@ social: true  # includes social icons at the bottom of the page
 
 ##### I'm a master's student from Hong Kong Polytechnic University (PolyU), majoring in Information Technology. Prior to that, I obtained 2 bachelor's degrees from South China University of Technology (SCUT), which are Software Engineering and Finance respectively.
 
-##### My research interest is blockchain technology and its application, including DeFi, DApp, and cryptocurrency, etc. I'm also interested in fintech-related topics.
+##### My research interest is blockchain technology and its application. I'm also interested in fintech-related topics.
 
 ##### I'm looking for a Ph.D. Position for 2024 spring or fall.
